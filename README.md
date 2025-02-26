@@ -47,4 +47,4 @@ The project is a work in progress and is not yet complete.
 - [ ] User feed (posts from users you follow)
 - [ ] User flair
 
-<!-- Installed dependencies. -->
+<!-- Updated browserlist version -->
